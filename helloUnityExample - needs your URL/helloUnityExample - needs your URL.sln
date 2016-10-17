@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{CA2D7F6F-D8CF-6FDF-611A-B7568EA9A714}") = "helloUnityExample - needs your URL", "Assembly-CSharp-firstpass.csproj", "{7D05B2B9-1842-AE4E-F815-F25F649BEE11}"
+EndProject
+Project("{CA2D7F6F-D8CF-6FDF-611A-B7568EA9A714}") = "helloUnityExample - needs your URL", "Assembly-CSharp.csproj", "{640D7FB8-286D-08F6-423D-6A210170B6A1}"
+EndProject
+Project("{CA2D7F6F-D8CF-6FDF-611A-B7568EA9A714}") = "helloUnityExample - needs your URL", "Assembly-CSharp-Editor.csproj", "{8418A348-41FA-1D46-4EC2-3172B418CC5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D05B2B9-1842-AE4E-F815-F25F649BEE11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D05B2B9-1842-AE4E-F815-F25F649BEE11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D05B2B9-1842-AE4E-F815-F25F649BEE11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D05B2B9-1842-AE4E-F815-F25F649BEE11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{640D7FB8-286D-08F6-423D-6A210170B6A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{640D7FB8-286D-08F6-423D-6A210170B6A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{640D7FB8-286D-08F6-423D-6A210170B6A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{640D7FB8-286D-08F6-423D-6A210170B6A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8418A348-41FA-1D46-4EC2-3172B418CC5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8418A348-41FA-1D46-4EC2-3172B418CC5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8418A348-41FA-1D46-4EC2-3172B418CC5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8418A348-41FA-1D46-4EC2-3172B418CC5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
